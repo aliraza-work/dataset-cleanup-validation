@@ -1,0 +1,6 @@
+id,name,email,status
+1,Ali Raza,ali@example.com,active
+2,Sara Khan,,active
+1,Ali Raza,ali@example.com,active
+3,Omar Ali,omar@example.com,pending
+4,,test@example.com,active
